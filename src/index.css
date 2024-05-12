@@ -4,7 +4,7 @@
 
 @layer components {
   .background-image{
-    background-image: url('public/images/heroimg.jpg');
+    background-image: url('/images/heroimg.jpg');
     border-image: fill 0 linear-gradient(#0001, #000);
     width: 100%;
     height: 100%;
@@ -18,7 +18,7 @@
   }
 
   .background-image-dining{
-    background-image: url('public/images/Dining.jpg');
+    background-image: url('/images/Dining.jpg');
     border-image: fill 0 linear-gradient(#0001, #000);
     width: 100%;
     height: 100%;
