@@ -13,4 +13,4 @@ Some pictures from the actual site.
 ![Actual site image](https://github.com/Ihafiz7/Furniture-Store/blob/main/Screenshot%20(39).png)
 
 
-You can view the live version of this project [here](https://voscofurniture.netlify.app){:target="_blank"}.
+You can view the live version of this project <a href="https://voscofurniture.netlify.app/" target="_blank">here</a>
