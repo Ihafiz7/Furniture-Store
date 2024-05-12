@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .background-image{
+    background-image: url(images/heroimg.jpg);
+    border-image: fill 0 linear-gradient(#0001, #000);
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    background-position: 50% 50%;
+    background-size: cover;
+  }
+  
+  .bar {
+    @apply flex items-center justify-center h-[1px] w-[85dvw] bg-gray-400;
+  }
+
+  .background-image-dining{
+    background-image: url(images/Dining.jpg);
+    border-image: fill 0 linear-gradient(#0001, #000);
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    background-position: 50% 50%;
+    background-size: cover;
+  }
+
+}
