@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className='flex flex-col items-center justify-center sm:gap-4 xl:gap-16 sm:my-0 xl:my-4'>
         <div className='bar'></div>
-        <div className='flex items-center justify-center sm:gap-2 xl:gap-10 w-screen sm:h-auto xl:h-screen sm:p-2 xl:p-8'>
+        <div className='flex items-center justify-center sm:gap-2 xl:gap-10 w-screen sm:h-auto xl:h-auto sm:p-2 xl:p-8'>
             <div className='flex items-center justify-center sm:w-1/2 sm:pl-4 xl:pl-28'>
                 <div className='relative'>
                     <img src="images/bg1.jpeg" alt="About Picture" className='w-full h-full object-cover' />
